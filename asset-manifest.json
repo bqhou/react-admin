@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bqhou/react-admin/static/css/main.cfd9397d.css",
-    "main.js": "/bqhou/react-admin/static/js/main.ab9bb461.js",
-    "static/js/607.5077c24f.chunk.js": "/bqhou/react-admin/static/js/607.5077c24f.chunk.js",
-    "static/js/15.0ae8beed.chunk.js": "/bqhou/react-admin/static/js/15.0ae8beed.chunk.js",
-    "index.html": "/bqhou/react-admin/index.html",
-    "main.cfd9397d.css.map": "/bqhou/react-admin/static/css/main.cfd9397d.css.map",
-    "main.ab9bb461.js.map": "/bqhou/react-admin/static/js/main.ab9bb461.js.map",
-    "607.5077c24f.chunk.js.map": "/bqhou/react-admin/static/js/607.5077c24f.chunk.js.map",
-    "15.0ae8beed.chunk.js.map": "/bqhou/react-admin/static/js/15.0ae8beed.chunk.js.map"
+    "main.css": "/react-admin/static/css/main.cfd9397d.css",
+    "main.js": "/react-admin/static/js/main.dd2b59cf.js",
+    "static/js/607.5077c24f.chunk.js": "/react-admin/static/js/607.5077c24f.chunk.js",
+    "static/js/15.0ae8beed.chunk.js": "/react-admin/static/js/15.0ae8beed.chunk.js",
+    "index.html": "/react-admin/index.html",
+    "main.cfd9397d.css.map": "/react-admin/static/css/main.cfd9397d.css.map",
+    "main.dd2b59cf.js.map": "/react-admin/static/js/main.dd2b59cf.js.map",
+    "607.5077c24f.chunk.js.map": "/react-admin/static/js/607.5077c24f.chunk.js.map",
+    "15.0ae8beed.chunk.js.map": "/react-admin/static/js/15.0ae8beed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfd9397d.css",
-    "static/js/main.ab9bb461.js"
+    "static/js/main.dd2b59cf.js"
   ]
 }
