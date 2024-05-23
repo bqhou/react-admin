@@ -2,4 +2,7 @@
 
 This is a dashboard Web using React JS with a couple of libraries.
 
-https://bqhou.github.io/
+## Live Demo
+https://bqhou.github.io/react-admin
+
+
